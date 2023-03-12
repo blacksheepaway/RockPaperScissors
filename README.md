@@ -14,13 +14,14 @@
 <p>Next, the game displays the user's and the computer's hand choices using ASCII art. Finally, the game determines the winner based on the rules of rock paper scissors and displays the result on the screen.</p>
 
 <h2>Techniques Used</h2>
-
+<p>This program was written in Python and utilizes several key techniques to create a fun and interactive experience for the user. Here are a few of the techniques used:</p>
 <ul>
-	<li>ASCII art for displaying hand choices</li>
-	<li>Dictionary data structure for mapping hand choices to their respective ASCII art</li>
-	<li>Random module for generating the computer's hand choice</li>
-	<li>Basic conditional statements for determining the winner</li>
+  <li>ASCII art: The program displays hand choices using ASCII art, making the game more engaging and visually appealing.</li>
+  <li>Dictionary data structure: The program maps hand choices to their respective ASCII art using a dictionary, allowing for easy access and organization of data.</li>
+  <li>Random module: The program uses Python's random module to generate a random hand choice for the computer, ensuring a fair game each time.</li>
+  <li>Basic conditional statements: The program uses basic conditional statements to determine the winner of the game based on the rules of rock paper scissors, making the game logic simple and easy to understand.</li>
 </ul>
+<p>By using these techniques, the program provides a seamless and enjoyable experience for the user, while also demonstrating key concepts in Python programming.</p>
 
 <h2>Example Output</h2>
 
